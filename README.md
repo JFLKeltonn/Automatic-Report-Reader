@@ -23,6 +23,8 @@ Need to automate the maintenance of a list of companies to track. The following 
 
 Since companies may be added or removed from indicies (For example, Macy's was removed from the S&P500 in 2020), will also need to program a logic to update list of companies to track/retrieve reports from.
 
+In addition, we need to find a way to tell the computer when to download the earnings data. This will require getting a copy of the earnings release calendar from somewhere, and then programming the script to run the download and data processing functions at the date of release.
+
 ### Extracting Data
 Need to find a way to pull out the string and floating point data from the downloaded format (Likely PDF) and export it into Python for data analysis.
 
@@ -31,6 +33,13 @@ How do we rate/filter companies based on their performance?
 
 ### Financials
 Collect the following data/ratio from the Accounting declarations of the company:
-1. 
+
+
+### Text Data
+
+
+### Normalising against competitors
+
+
 
 ###
