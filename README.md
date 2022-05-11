@@ -1,4 +1,10 @@
+# Automatic-Report-Reader
+## Description
+Automate the reading of Financial Reports. Create a script to automatically retrieve financial results from publically listed companies on the stock market to give each company a score, and order/filter companies by score.
 
+Meant to serve as a means to quickly filter out good companies and opportunities in the market during earnings season, and help an investor find strong positions and companies to research further, quickly.
+
+Focused on US Equities.
 ## Automate retrival of Financial Reports
 ### Key Documents
 Need to find some way to retrieve the following financial reports, extract the text and accounting data, and store into easily processed formats:
